@@ -1,3 +1,13 @@
 Resolusi 2021
 
-- Fokus WEB
+- Fokus WEB :
+1. Git - Version Control
+2. Basic Terminal Usage
+3. Data Structure & Algorithms
+4. GitHub
+5. Licences
+6. Semantic Vesioning
+7. SSH
+8. HTTP/HTTPS and APIs
+9. Design Patterns
+10. Character Encodings
